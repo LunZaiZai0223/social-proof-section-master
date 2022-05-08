@@ -7,5 +7,6 @@ module.exports = defineConfig({
         additionalData: `@import "@/assets/scss/variables.scss";`
       }
     }
-  }
+  },
+  publicPath: '/social-proof-section-master/'
 })
