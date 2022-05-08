@@ -1,24 +1,14 @@
-# social-proof-section-master
+# [Vue] Social-proof-section-master
 
-## Project setup
-```
-npm install
-```
+## Overview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### The challenges
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- handle layout by using `transform` and `overflow` properties
+- use `grid` layout system
+- split HTML structure into smaller vue components
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Screenshot
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://i.imgur.com/mr6MwYF.png)
+
